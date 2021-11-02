@@ -26,6 +26,8 @@ public class Command
 {
     private CommandWord commandWord;
     private String secondWord;
+    private String Aisha;
+    private String Munisa;
 
     public Command(CommandWord commandWord, String secondWord)
     {
